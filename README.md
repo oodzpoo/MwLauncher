@@ -33,4 +33,9 @@ yum search MariaDB
 sudo yum -y install MariaDB-devel.x86_64 MariaDB-shared.x86_64
 ```
 
+* YUM Error REF URL : https://121202.tistory.com/13
+```
+checking DNS..
+sudo vi /etc/resolv.conf
+```
 
